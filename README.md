@@ -6,7 +6,7 @@ Here we append 'JOKE:' at the start of every joke in our dataframe and '<|endoft
 
 Here are some results:
 ![resutl1](https://github.com/Sushmita10062002/Fun.ai/blob/master/images/img1.png)
-![result2](https://github.com/Sushmita10062002/Fun.ai/blob/master/images/img1.png)
+![result2](https://github.com/Sushmita10062002/Fun.ai/blob/master/images/img2.png)
 
 
 ## Dataset
