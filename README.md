@@ -5,6 +5,7 @@ In this we simply tries to generate jokes, given the length of joke and number o
 Here we append 'JOKE:' at the start of every joke in our dataframe and '<|endoftext|>' at the end of each joke which tells our model that our joke has ended. At the time of inference
 
 Here are some results:
+
 ![resutl1](https://github.com/Sushmita10062002/Fun.ai/blob/master/images/img1.png)
 ![result2](https://github.com/Sushmita10062002/Fun.ai/blob/master/images/img2.png)
 
